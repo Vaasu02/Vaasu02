@@ -1,5 +1,12 @@
 <h1 align="center">Hi 👋, I'm Vasu Chourasia</h1>
+
+
+<p align="center">
+  <img alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+</p>
 <h3 align="center">A passionate Full stack developer from India</h3>
+
+
 
 <br>
 
@@ -13,8 +20,9 @@
 
 - ⚡ Fun fact **I can debug code in my dreams**
 
-<br>
 
+
+<br>
 
 
 # 💻 Tech Stack:
