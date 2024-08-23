@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **vasuchourasia20@gmail.com**
 
-- 📄 Know about my experiences <a href="" target="_blank">Resume</a>
+- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1Z6aDalaPnXZrVpweB3iSelcDdp1AquIj/view?usp=sharing" target="blank">Resume</a>
 
 - ⚡ Fun fact **I can debug code in my dreams**
 
