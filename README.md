@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Vasu Chourasia</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaasu02&label=Profile%20views&color=0e75b6&style=flat" alt="vaasu02" /> </p>
 
 🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on exciting full-stack projects<br>🤝  I’m looking for help with building a chat application<br>🌱 I’m currently learning Next.js and TypeScript<br>💬 Ask me about JavaScript, React, Node.js, and building scalable web applications<br>⚡ Fun fact: I can debug code in my dreams!<br>
 
