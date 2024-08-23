@@ -1,15 +1,26 @@
 <h1 align="center">Hi 👋, I'm Vasu Chourasia</h1>
 <h3 align="center">A passionate Full stack developer from India</h3>
 
+<br>
 
-🔭 I’m currently working on my Portfolio<br>👯 I’m looking to collaborate on exciting full-stack projects<br>🤝  I’m looking for help with building a chat application<br>🌱 I’m currently learning Next.js and TypeScript<br>💬 Ask me about JavaScript, React, Node.js, and building scalable web applications<br>⚡ Fun fact: I can debug code in my dreams!<br>
+- 🔭 I’m currently working on my **Portfolio**
 
+- 🌱 I’m currently learning **Next JS and TypeScript**
 
-## 🌐 Socials:
+- 💬 Ask me about **JavaScript, React, Node.js, and building scalable web applications**
+
+- 📫 How to reach me **vasuchourasia20@gmail.com**
+
+- 📄 Know about my experiences <a href="" target="_blank">Resume</a>
+
+- ⚡ Fun fact **I can debug code in my dreams**
+
+<br>
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vasuchourasia02) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/vasu-chourasia-874a10323/)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D44638.svg?logo=gmail&logoColor=white)](mailto:vasuchourasia20@gmail.com)
+
 
 
 # 💻 Tech Stack:
