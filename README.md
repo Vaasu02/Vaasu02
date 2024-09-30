@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 I’m currently working on my **Portfolio**
+- 🔭 You can visit my  <a href="https://portfolio-delta-eight-69.vercel.app/">Portfolio</a>
 
 - 🌱 I’m currently learning **Next JS and TypeScript**
 
