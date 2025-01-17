@@ -10,7 +10,7 @@
 
 <br>
 
-- 🔭 You can visit my  <a href="https://portfolio--nu.vercel.app/">Portfolio</a>
+- 🔭 You can visit my  <a href="https://vasu-portfolioo.vercel.app/">Portfolio</a>
 
 - 🌱 I’m currently learning **Next JS and TypeScript**
 
