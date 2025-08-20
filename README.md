@@ -10,19 +10,18 @@
 
 <br>
 
-- 🔭 You can visit my  <a href="https://vasu-portfolioo.vercel.app/">Portfolio</a>
+- 🔭 You can visit my <a href="https://vasu-portfolioo.vercel.app/">Portfolio</a>  
 
-- 🌱 I’m currently learning **Next JS and TypeScript**
+- 🌱 I’m currently exploring **modern frameworks, AI tools, and advanced programming concepts**  
 
-- 💬 Ask me about **JavaScript, React, Node.js, and building scalable web applications**
+- 💬 Ask me about **problem solving, building scalable applications, and crafting user-friendly solutions**  
 
-- 📫 How to reach me **vasuchourasia20@gmail.com**
+- 📫 How to reach me **vasuchourasia20@gmail.com**  
 
-- ⚡ Fun fact **I can debug code in my dreams**
-
-
+- ⚡ Fun fact **I sometimes dream about solving bugs before I even wake up**  
 
 <br>
+
 
 
 # 💻 Tech Stack:
