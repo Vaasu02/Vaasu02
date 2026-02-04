@@ -10,8 +10,6 @@
 
 <br>
 
-- 🔭 You can visit my <a href="https://vasu-portfolioo.vercel.app/">Portfolio</a>  
-
 - 🌱 I’m currently exploring **modern frameworks, AI tools, and advanced programming concepts**  
 
 - 💬 Ask me about **problem solving, building scalable applications, and crafting user-friendly solutions**  
